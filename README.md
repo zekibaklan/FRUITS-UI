@@ -15,7 +15,7 @@
 - [ ] Developing an application with framework in SwiftUI
 - [ ]  Create a data model and fetch data using the Swift language
 - [ ] Using the new Link View in SwiftUI
-- [ ] Using the new Goup Box View in SwiftUI 
+- [ ] Using the new Group Box View in SwiftUI 
 - [ ]  Using the new Disclosure View in SwiftUI
 - [ ] Using views dynamically in List View with a loop
 
